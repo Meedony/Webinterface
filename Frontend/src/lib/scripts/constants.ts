@@ -1,4 +1,4 @@
-export const BASE_PATH = "http://localhost:8888"
+export const BASE_PATH = "https://api.heav.lol"
 
 export function get(path: string) {
 
