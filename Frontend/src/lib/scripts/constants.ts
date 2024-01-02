@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://api.heav.lol"
+export const BASE_PATH = "https://backend.olympushosting.uk"
 
 export function get(path: string) {
 
