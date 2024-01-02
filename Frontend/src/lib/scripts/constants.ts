@@ -1,4 +1,4 @@
-export const BASE_PATH = "http://85.215.57.242:8888"
+export const BASE_PATH = "http://backend.olympushosting.uk"
 
 export function get(path: string) {
 
